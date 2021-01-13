@@ -1,8 +1,9 @@
 #include <iostream>
 #include "day01.h"
 #include "day02.h"
+#include "day03.h"
 
 int main()
 {
-	day2::run();
+	day3::run();
 }

@@ -1,6 +1,13 @@
 #pragma once
 
+#include<iostream>
+#include<fstream>
+#include<string>
+#include <vector>
+#include <string>
+
 namespace day2 {
+
 	using namespace std;
 
 	void part1(const vector<int>& numbers);
