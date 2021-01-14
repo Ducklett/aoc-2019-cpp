@@ -3,8 +3,9 @@
 #include "day02.h"
 #include "day03.h"
 #include "day04.h"
+#include "day05.h"
 
 int main()
 {
-	day4::run();
+	day5::run();
 }
