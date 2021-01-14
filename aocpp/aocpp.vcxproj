@@ -142,6 +142,7 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="04.txt" />
     <Text Include="inputs\01.txt" />
     <Text Include="inputs\02.txt" />
     <Text Include="inputs\03.txt" />
@@ -150,6 +151,7 @@
     <ClInclude Include="day01.h" />
     <ClInclude Include="day02.h" />
     <ClInclude Include="day03.h" />
+    <ClInclude Include="day04.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
