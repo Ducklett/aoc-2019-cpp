@@ -35,6 +35,9 @@
     <Text Include="inputs\05.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="inputs\06.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="day01.h">
@@ -50,6 +53,9 @@
       <Filter>Source Files</Filter>
     </ClInclude>
     <ClInclude Include="day05.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="day06.h">
       <Filter>Source Files</Filter>
     </ClInclude>
   </ItemGroup>
